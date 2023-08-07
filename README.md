@@ -5,6 +5,7 @@ This repository contains instructions/examples/tutorials for getting started wit
 ### Training
 
 * [Fine-tune LLaMA 2 on Amazon SageMaker](./training/sagemaker-notebook.ipynb) 
+* [Deploy Llama 2 (7B - 70B) on Amazon SageMaker](./infernece/sagemaker-notebook.ipynb) 
 
 ## Requirements
 
