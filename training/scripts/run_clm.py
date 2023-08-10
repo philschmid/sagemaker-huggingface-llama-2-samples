@@ -185,7 +185,7 @@ def training_function(args):
     )
 
     # Define training args
-    output_dir = "./tmp/llama2"
+    output_dir = "/tmp/llama2"
     training_args = TrainingArguments(
         output_dir=output_dir,
         per_device_train_batch_size=args.per_device_train_batch_size,
